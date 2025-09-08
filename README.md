@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats  
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dongsusin&theme=dark)](https://git.io/streak-stats)
 
 ---
 
