@@ -23,16 +23,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,threejs)](https://skillicons.dev)
 
-<!-- ### ⚛️ Framework & Library -->
 ### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase)](https://skillicons.dev)
 
-### 📚 Tools & Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github,vite,vercel)](https://skillicons.dev)
+### 📚 Tools & Collaboration
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode,vite,netlify)](https://skillicons.dev)
 
-### 🎨 Design & Others
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr)](https://skillicons.dev)
+### 🎨 Design
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 </div>
