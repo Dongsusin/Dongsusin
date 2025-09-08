@@ -20,7 +20,7 @@
 ### 🔧 백엔드  
 <img src="https://skillicons.dev/icons?i=nodejs,firebase" height="50" />
 
-### 📚 툴  
+### 📚 협업&툴  
 <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,vite,netlify" height="50" />
 
 ### 🎨 디자인  
