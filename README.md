@@ -15,19 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dongsusin&theme=dark)](https://git.io/streak-stats)
-
----
----
-
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dongsusin&theme=dracula)](https://github.com/Dongsusin/github-readme-activity-graph)
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
@@ -41,6 +28,14 @@
 
 ### 🎨 Design  
 [![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats  
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dongsusin&theme=dark)](https://git.io/streak-stats)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dongsusin&theme=dracula)](https://github.com/Dongsusin/github-readme-activity-graph)
 
 ---
 
