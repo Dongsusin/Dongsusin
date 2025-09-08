@@ -1,7 +1,7 @@
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" rel="stylesheet">
 
 <!-- 상단 인사말 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1E88E5&height=200&section=header&text=👋%20Welcome!%20I'm%20Dongsu&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1E88E5&height=200&section=header&text=안녕하세요!%20개발자%20신동수입니다.&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <div align="center" style="font-family: 'Pretendard', sans-serif; background: linear-gradient(180deg, #e0f7fa, #bbdefb, #90caf9); padding: 25px; border-radius: 16px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
 
