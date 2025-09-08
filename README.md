@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ 기술 스택  
+## 기술 스택  
 
 ### 프론트엔드  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
