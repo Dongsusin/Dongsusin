@@ -7,8 +7,7 @@
 --- 
 
 👨‍💻 **개발자** <br>  
-📧 [이메일:auroratime020715@gmail.com](mailto:auroratime020715@gmail.com) <br>  
-🌐 [포트폴리오() <br>  
+📧 [이메일:auroratime020715@gmail.com](mailto:auroratime020715@gmail.com) <br>   
 📚 [블로그](https://blog.naver.com/auroratime020715)  
 
 ---
