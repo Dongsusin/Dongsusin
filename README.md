@@ -17,10 +17,8 @@
 
 ## 📊 GitHub Stats  
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongsusin)](https://github.com/Dongsusin/github-readme-stats)
-</div>
 
 ---
 
