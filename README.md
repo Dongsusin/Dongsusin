@@ -7,7 +7,7 @@
 --- 
 
 👨‍💻 **개발자** <br>  
-📧 [이메일:auroratime020715@gmail.com](mailto:auroratime020715@gmail.com) <br>   
+📧 [이메일](mailto:auroratime020715@gmail.com) <br>   
 📚 [블로그](https://blog.naver.com/auroratime020715)  
 
 ---
@@ -17,14 +17,11 @@
 ### 💻 프론트엔드 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,threejs" height="50" />
 
-### 🔧 백엔드  
-<img src="https://skillicons.dev/icons?i=nodejs,firebase" height="50" />
+### 🔧 백엔드&디자인
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,figma" height="50" />
 
 ### 📚 협업&툴  
 <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,vite,netlify" height="50" />
-
-### 🎨 디자인  
-<img src="https://skillicons.dev/icons?i=figma" height="50" />
 
 ---
 
