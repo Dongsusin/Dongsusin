@@ -4,12 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20There!%20👋%20I'm%20Dongsu%20Sin&fontSize=38&fontAlign=50&fontAlignY=40" /> 
 
---- 
-
-👨‍💻 **개발자** <br>  
-📧 [이메일](mailto:auroratime020715@gmail.com) <br>   
-📚 [블로그](https://blog.naver.com/auroratime020715)  
-
 ---
 
 ## 🛠️ 기술 스택  
