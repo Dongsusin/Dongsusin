@@ -2,7 +2,7 @@
 
 <div align="center" style="font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20There!%20👋%20I'm%20Dongsu%20Sin&fontSize=38&fontAlign=50&fontAlignY=40" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=안녕하세요%%20👋%20개발자%20신동수입니다!&fontSize=38&fontAlign=50&fontAlignY=40" /> 
 
 ---
 
