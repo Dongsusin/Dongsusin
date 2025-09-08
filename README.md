@@ -1,9 +1,12 @@
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" rel="stylesheet">
 
-<div align="center" style="font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(180deg, #e0f7fa, #bbdefb, #90caf9); padding: 20px; border-radius: 12px;">
+<!-- 상단 인사말 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1E88E5&height=200&section=header&text=👋%20Welcome!%20I'm%20Dongsu&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-  ---
-  
+<div align="center" style="font-family: 'Pretendard', sans-serif; background: linear-gradient(180deg, #e0f7fa, #bbdefb, #90caf9); padding: 25px; border-radius: 16px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+
+---
+
 ## 🛠️ 기술 스택  
 
 ### 프론트엔드  
@@ -52,16 +55,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
-
 ---
 
-## 커밋 그래프  
+## 📈 커밋 그래프  
 
 <div align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dongsusin&theme=react-dark&bg_color=0d1117&color=42A5F5&line=1E88E5&point=90CAF9&hide_border=true" width="100%"/>
-
 </div>
 
 ---
