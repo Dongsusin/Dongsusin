@@ -4,29 +4,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20There!%20👋%20I'm%20Dongsu%20Sin&fontSize=38&fontAlign=50&fontAlignY=40" /> 
 
----
+--- 
 
-## ✨ About Me  
-
-👨‍💻 **Developer** <br>  
-📧 [auroratime020715@gmail.com](mailto:auroratime020715@gmail.com) <br>  
-🌐 [Portfolio]() <br>  
-📚 [Blog](https://blog.naver.com/auroratime020715)  
+👨‍💻 **개발자** <br>  
+📧 [이메일:auroratime020715@gmail.com](mailto:auroratime020715@gmail.com) <br>  
+🌐 [포트폴리오() <br>  
+📚 [블로그](https://blog.naver.com/auroratime020715)  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ 기술 스택  
 
-### 💻 Frontend  
+### 💻 프론트엔드 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,threejs" height="50" />
 
-### 🔧 Backend  
+### 🔧 백엔드  
 <img src="https://skillicons.dev/icons?i=nodejs,firebase" height="50" />
 
-### 📚 Tools & Collaboration  
+### 📚 툴  
 <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,vite,netlify" height="50" />
 
-### 🎨 Design  
+### 🎨 디자인  
 <img src="https://skillicons.dev/icons?i=figma" height="50" />
 
 ---
@@ -34,10 +32,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dongsusin&show_icons=true&theme=radical&hide_border=true" height="180" />  
-<img src="https://streak-stats.demolab.com?user=Dongsusin&theme=radical&hide_border=true" height="180" />  
-
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dongsusin&theme=dracula&hide_border=true&area=true" width="100%"/>
 
 </div>
