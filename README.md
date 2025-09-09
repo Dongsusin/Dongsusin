@@ -7,11 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me  
-
-✨ 안녕하세요! **프론트엔드 / 앱 / 게임 개발**을 두루 경험하며 성장 중인 **개발자 신동수**입니다.  
-🚀 React, Three.js, Flutter, Unity 등 다양한 기술을 활용한 프로젝트를 진행해왔습니다.  
-💡 새로운 도전을 즐기며, 협업과 성장에 가치를 둡니다.  
+## 👨‍💻 About Me    
 
 ---
 
@@ -28,15 +24,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)  
 
----
-
 ### ⚙️ 백엔드 & 디자인  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
----
 
 ### ☁️ 클라우드 & 인프라  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
@@ -46,29 +38,21 @@
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
----
-
 ### 🎮 게임 개발  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
----
-
 ### 📱 어플 개발  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
----
-
 ### 🤖 AI  
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-
----
 
 ### 🛠️ 협업 & 툴  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -96,9 +80,9 @@
 
 ## 📫 Contact Me  
 
-💌 **Email** : your.email@example.com  
+💌 **Email** : auroratime020715@gmail.com
 💼 **Portfolio** : [링크 넣기]  
-📝 **Blog** : [링크 넣기]  
+📝 **Blog** : [(https://blog.naver.com/auroratime020715)]  
 
 ---
 
