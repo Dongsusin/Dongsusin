@@ -78,16 +78,6 @@
 
 ---
 
-## 📫 Contact Me  
-
-💌 **Email** : auroratime020715@gmail.com
-<br/>
-💼 **Portfolio** : [링크 넣기]  
-<br/>
-📝 **Blog** : [(https://blog.naver.com/auroratime020715)]  
-
----
-
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90CAF9,100:1E88E5&height=120&section=footer&fontColor=ffffff" />  
 
