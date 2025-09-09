@@ -1,9 +1,17 @@
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" rel="stylesheet">
 
 <!-- 상단 인사말 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1E88E5&height=200&section=header&text=안녕하세요!%20개발자%20신동수입니다.&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1E88E5&height=200&section=header&text=안녕하세요!%20개발자%20신동수입니다.%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<div align="center" style="font-family: 'Pretendard', sans-serif; background: linear-gradient(180deg, #e0f7fa, #bbdefb, #90caf9); padding: 25px; border-radius: 16px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<div align="center" style="font-family: 'Pretendard', sans-serif;">
+
+---
+
+## 👨‍💻 About Me  
+
+✨ 안녕하세요! **프론트엔드 / 앱 / 게임 개발**을 두루 경험하며 성장 중인 **개발자 신동수**입니다.  
+🚀 React, Three.js, Flutter, Unity 등 다양한 기술을 활용한 프로젝트를 진행해왔습니다.  
+💡 새로운 도전을 즐기며, 협업과 성장에 가치를 둡니다.  
 
 ---
 
@@ -75,14 +83,26 @@
 
 ---
 
-## 📈 커밋 그래프  
+## 📈 GitHub 활동  
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dongsusin&theme=react-dark&bg_color=0d1117&color=42A5F5&line=1E88E5&point=90CAF9&hide_border=true" width="100%"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dongsusin&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongsusin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
 
+## 📫 Contact Me  
+
+💌 **Email** : your.email@example.com  
+💼 **Portfolio** : [링크 넣기]  
+📝 **Blog** : [링크 넣기]  
+
+---
+
+<!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90CAF9,100:1E88E5&height=120&section=footer&fontColor=ffffff" />  
 
 </div>
