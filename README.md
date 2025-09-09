@@ -81,9 +81,9 @@
 ## 📫 Contact Me  
 
 💌 **Email** : auroratime020715@gmail.com
-<br/><br/>
+<br/>
 💼 **Portfolio** : [링크 넣기]  
-<br/><br/>
+<br/>
 📝 **Blog** : [(https://blog.naver.com/auroratime020715)]  
 
 ---
